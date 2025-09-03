@@ -4,8 +4,6 @@
 
 PonyHof is a **decentralized, encrypted, permissioned order relay overlay** that enhances the 1inch Limit Order Protocol. It creates encrypted dark pools where traders can share and match limit orders off-chain securely. 
 
-deployed @ https://ponyhof.replit.app/
-
 ## How PonyHof Complements 1inch Fusion Implementation
 ### Extends privacy and control:
 PonyHof introduces permissioned dark pools with cryptographic encryption, allowing selective sharing of sensitive limit orders, which 1inch Fusion doesn’t natively offer. This boosts institutional traders’ confidence in maintaining confidentiality.
